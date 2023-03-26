@@ -43,8 +43,8 @@ global.socialm = "GitHub: cybertrongodzzz" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['918590745203']
-global.ownertag = '918590745203' //ur tag number
+global.owner = ['254790759013']
+global.ownertag = '254790759013' //ur tag number
 global.botnumber = '918590745203' //Add your Bot Number For Log
 global.botname = 'CYBER-X BETA EDITION' //ur bot name
 global.ig = "https://youtube.com/@user-nb8ky9yo8j" //your theme url which will be displayed on whatsapp
